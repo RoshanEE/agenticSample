@@ -1,0 +1,8 @@
+[10:00] Leah: Let’s finalize the architecture for the notifications module.
+[10:01] Amit: I propose using a Kafka queue between the microservices.
+[10:02] Leah: Makes sense. Can you put the design proposal in Confluence?
+[10:03] Amit: Yes, by EOD today.
+[10:04] Rina: What about alerting? We missed Slack alerts during staging last week.
+[10:05] Leah: Please open a Jira ticket to integrate Slack alerts, Rina.
+[10:06] Rina: On it.
+[10:07] Leah: Once Kafka design is documented, let’s review it in the Monday tech sync.

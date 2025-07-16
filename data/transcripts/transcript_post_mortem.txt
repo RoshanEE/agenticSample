@@ -1,0 +1,9 @@
+[14:00] Maria: Let's start with the post-mortem for the outage on Saturday.
+[14:01] Dev: The root cause was a misconfigured firewall rule during the new deployment.
+[14:02] Maria: Can we add this to our Confluence RCA page?
+[14:03] Dev: Sure, I’ll write it up by end of day.
+[14:04] Sanjay: We should automate firewall rule validation.
+[14:05] Maria: Good point. Please open a Jira task for that, Sanjay.
+[14:06] Sanjay: Got it.
+[14:07] Maria: Lastly, let’s inform the client about the fix. Rajesh, can you draft the email?
+[14:08] Rajesh: I’ll do it right after this call.
