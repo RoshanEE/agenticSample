@@ -3,3 +3,4 @@ venv/
 .streamlit
 config.py
 __pycache__/
+config_backup.py
